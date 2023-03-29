@@ -1,0 +1,132 @@
+.histitle{
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    font-size: 30px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    letter-spacing: 2px;
+}
+
+.firstselectrow2 {
+    background-color: #fffcfb;
+    height: 100%;
+    padding-bottom: 40px;
+    text-align: center;
+    border-width: 0.2px;
+    border-radius: 10px;
+    border-color: rgba(247, 243, 243, 0.041);
+    border-style: solid;
+}
+
+.firstselectrow2:hover {
+    background-color: rgb(252, 241, 241);
+}
+
+.secondhistitle {
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    font-size: 15px;
+    text-indent: 30px;
+    letter-spacing: 1.5px;
+    margin-bottom: 30px;
+}
+
+
+
+.titleorder {
+    margin-top: 55px;
+    margin-left: 85px;
+    margin-right: 20px;
+    text-align: center;
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+}
+
+.orderid {
+  
+    width: 100%;
+
+}
+
+.namecol {
+    margin-top: 45px;
+    margin-right: 135px;
+}
+
+.namecustomer {
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    margin-top: 5px;
+    margin-left: 80px;
+    padding-right: 20px;
+    text-align: center;
+}
+
+.nameinput {
+    margin: auto;
+    width: 80%;
+}
+
+.fa-clock-rotate-left{
+    font-size: 28px;
+    margin-left: 20px;
+    color: grey;
+}
+
+
+.titleday{
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    margin-right: 20px;
+
+}
+
+.titlecontainernames{
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    margin-right: 20px;
+
+}
+
+
+.useday {
+    padding-top: 10px;
+    margin-left: 55px;
+}
+
+.titleprice {
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    margin-right: 35px;
+    margin-left: 90px;
+}
+
+.priceinput {
+
+    width: 98%;
+
+}
+
+.hissearchbutton{
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 100px;
+    text-align: center;
+    background-color: #6DE685;
+    border-color: #6DE685;
+}
+
+.hissearchbutton:hover{
+    background-color: #6de685ce;
+    border-color: #57ff797e;
+}
+
+.hisresetbutton{
+    margin-left: 60%;
+    margin-top: 20px;
+    width: 100px;
+    text-align: center;
+    background-color: #E66651;
+    border-color: #E66651;
+
+}
+
+.hisresetbutton:hover {
+    background-color: #ec7f6f;
+    border-color: #E66651;
+
+}
+

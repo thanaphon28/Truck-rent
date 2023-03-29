@@ -1,0 +1,75 @@
+.firstcustomerrow {
+    background-color: #fffcfb;
+    height: 100%;
+    padding-bottom: 1px;
+    text-align: center;
+    border-width: 0.2px;
+    border-radius: 10px;
+    border-color: rgba(247, 243, 243, 0.041);
+    border-style: solid;
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+.ordertitle {
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    font-size: 30px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    letter-spacing: 2px;
+}
+
+.secondhistitle {
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    font-size: 15px;
+    text-indent: 30px;
+    letter-spacing: 1.5px;
+    margin-bottom: 30px;
+}
+
+.fa-basket-shopping {
+    font-size: 28px;
+    margin-left: 20px;
+    color: grey;
+}
+
+.infobook {
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    margin-top: 30px;
+    border-width: 2px;
+    border-color: grey;
+    border-style: solid;
+    border-radius: 15px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 50px;
+}
+
+.tworowinfobooking {
+
+    padding-bottom: 250px;
+}
+
+.line3 {
+    width: 50%;
+    padding-bottom: 2px;
+
+}
+
+.con .tworowinfobooking .tableHistory .infobook .table .Pending {
+    color: orange;
+}
+
+.con .tworowinfobooking .tableHistory .infobook .table .Complete {
+    color: green;
+}
+
+.con .tworowinfobooking .tableHistory .infobook .table .Cancel {
+    color: red;
+}
+
+.paylogo {
+    width: 50px;
+    margin-left: 20px;
+}

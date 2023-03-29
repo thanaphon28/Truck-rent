@@ -1,0 +1,124 @@
+.head {
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    font-size: 33px;
+    font-weight: 500;
+    letter-spacing: 1.5px;
+}
+
+.titlesecondhead {
+    font-size: 12px;
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    margin-top: 20px;
+    text-indent: 40px;
+    letter-spacing: 1.5px;
+}
+
+.fa-circle-question{
+    margin-left: 10px;
+    color: #15255E;
+}
+
+.addresstitle {
+    color: #15255E;
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.titlevilname{
+    color: #15255E;
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    padding-left: 23px;
+    letter-spacing: 1.2px;
+    font-size: 15px;
+}
+
+.titlecompany {
+    color: #15255E;
+    line-height: 28px;
+    margin-top: 20px;
+    padding-left: 30px;
+    letter-spacing: 1.5px;
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+}
+
+.cardcontact{
+    width: 80%;
+ 
+}
+
+.titlesubdiary{
+    color: #15255E;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    font-size: 15px;
+    letter-spacing: 1.5px;
+    padding-left: 40px;
+}
+
+.titlephonecom{
+    color: #15255E;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    letter-spacing: 1.5px;
+    padding-left: 40px;
+
+}
+
+.titleyear{
+    color: #15255E;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    letter-spacing: 1.5px;
+    padding-left: 40px;
+
+}
+
+.titlewebsite{
+    color: #15255E;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    letter-spacing: 1.5px;
+    padding-left: 35px;
+
+}
+
+.rowall{
+    padding-bottom: 250px;
+}
+
+.secondcontacttitle{
+    color: #15255E;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    letter-spacing: 1.5px;
+    padding-left: 35px;
+
+}
+
+.cardcontactus{
+    width: 100%;
+
+}
+
+.formname{
+   
+    width: 50%;
+}
+
+.btnsend{
+    margin-top: 15px;
+    width: 20%;
+    margin-left: 25px;
+}
+

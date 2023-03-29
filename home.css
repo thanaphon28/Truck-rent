@@ -1,0 +1,106 @@
+.secondtitle {
+    font-size: 14px;
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    text-indent: 30px;
+    margin-left: 10px;
+    text-align: center;
+}
+
+.secondtitle2 {
+    font-size: 14px;
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    text-indent: 30px;
+    margin-left: 10px;
+    text-align: center;
+
+}
+
+.regisbutton {
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+    background-color: blueviolet;
+    border-color: blueviolet;
+    margin-left: 20px;
+
+
+}
+
+.regisrow {
+    background-color: #DC604B;
+    height: 100%;
+    padding-bottom: 30px;
+    text-align: center;
+    border-width: 0.2px;
+    border-radius: 10px;
+    border-color: rgba(247, 243, 243, 0.041);
+    border-style: solid;
+}
+
+.regisrow:hover {
+    background-color: #dc614bd5;
+}
+
+.jointext {
+    text-align: center;
+    margin-top: 30px;
+    letter-spacing: 2px;
+    color: white;
+}
+
+.conmain {
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+.formtruck {
+    margin-left: 120px;
+    margin-right: 10px;
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    font-size: 15px;
+    text-align: start;
+}
+
+.starttitle {
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 3px;
+    margin-top: 30px;
+}
+
+.textall {
+    margin-top: 5%;
+    margin-left: 80px;
+    height: 100%;
+}
+
+.picall {
+    margin-top: 5%;
+}
+
+.searchbutton {
+    background-color: #2EF5BA;
+    border-color: #2EF5BA;
+    border-width: 0.5px;
+    margin-left: 70px;
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    font-size: 15px;
+
+}
+.searchtruck:hover {
+    background-color: #00ffb3;
+}
+
+.text:hover {
+    background-color: rgb(252, 241, 241);
+}
+
+.text{
+    width: 100%;
+    height: 100%;
+    border-width: 5px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: rgba(247, 243, 243, 0.103);
+}

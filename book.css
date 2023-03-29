@@ -1,0 +1,383 @@
+.booktrucktitle {
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    font-size: 30px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    letter-spacing: 2px;
+}
+
+.secondbooktitle {
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    font-size: 15px;
+    text-indent: 30px;
+    letter-spacing: 1.5px;
+    margin-bottom: 30px;
+}
+
+.firstselectrow {
+    background-color: #fffcfb;
+    height: 100%;
+    padding-bottom: 10px;
+    text-align: center;
+    border-width: 0.2px;
+    border-radius: 10px;
+    border-color: rgba(247, 243, 243, 0.041);
+    border-style: solid;
+}
+
+.firstselectrow:hover {
+    background-color: rgb(252, 241, 241);
+}
+
+.secondselectrow {
+    background-color: #fffcfb;
+    text-align: center;
+    border-width: 0.2px;
+    border-radius: 10px;
+    border-color: rgba(247, 243, 243, 0.041);
+    border-style: solid;
+}
+
+.secondselectrow:hover {
+    background-color: rgb(252, 241, 241);
+
+}
+
+.brandtrucks {
+    width: 51%;
+    margin-left: 130px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.titletruck {
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    margin-left: 20px;
+}
+
+.titledate {
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    padding-right: 20px;
+    text-align: center;
+}
+
+.titletype {
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    margin-left: 10px;
+
+}
+
+.types {
+    width: 50%;
+    margin-left: 130px;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+
+.titlecontainer {
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    margin-right: 180px;
+
+}
+
+.contain {
+    width: 62%;
+    font-family: 'Poppins', sans-serif;
+    margin-left: 25px;
+}
+
+.titletime {
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    padding-right: 210px;
+    text-align: center;
+
+}
+
+.timecol {
+    margin-left: 10px;
+
+
+}
+
+.titlenamedistance {
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    margin-right: 200px;
+    margin-top: 21px;
+
+
+}
+
+.distanceinput {
+    width: 72%;
+    color: grey;
+    margin-left: 10px;
+
+}
+
+
+.containcol {
+    margin-right: 120px;
+}
+
+.countcol {
+    margin-right: 30px;
+
+}
+
+.rebtn {
+    background-color: #EB2121;
+    margin-left: 30%;
+    margin-right: 20px;
+}
+
+.sebtn {
+    background-color: #00DB84;
+    border-color: #00DB84;
+
+}
+
+.fa-truck-ramp-box {
+    font-size: 28px;
+    margin-left: 20px;
+    color: grey;
+}
+
+.fa-truck-ramp-box:hover {
+    background-color: white;
+}
+
+.option[default] {
+    display: none;
+    color: #000000;
+}
+
+.countinput {
+    margin-left: 33px;
+    width: 64%;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.titlecount {
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    margin-right: 220px;
+}
+
+.titletel {
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    margin-right: 35px;
+    margin-left: 85px;
+
+}
+
+.telinput {
+    font-family: 'Poppins', sans-serif;
+
+    width: 80%;
+}
+
+.namesinput {
+    margin-left: 130px;
+    width: 58%;
+    font-family: 'Poppins', sans-serif;
+}
+
+.titlenamecus {
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    margin-right: 35px;
+}
+
+.vilinput {
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    width: 80%;
+
+}
+
+.titlevillage {
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    margin-right: 35px;
+    margin-left: 113px;
+
+}
+
+.vilinput1 {
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    width: 80%;
+
+}
+
+.titlevillage1 {
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    margin-right: 28px;
+    margin-left: 105px;
+
+}
+
+
+.roadtinput {
+    margin: auto;
+    width: 60%;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.titleroad {
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    margin-right: 40px;
+
+}
+
+.disinput {
+    margin: auto;
+    width: 60%;
+    font-family: 'Poppins', sans-serif;
+
+
+
+}
+
+.titledis {
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    margin-right: 40px;
+
+}
+
+.subtinput {
+    font-family: 'Poppins', sans-serif;
+    width: 80%;
+
+}
+
+.titlesub {
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    margin-right: 36px;
+    margin-left: 109px;
+
+}
+
+.provinceinput {
+    font-family: 'Poppins', sans-serif;
+    width: 80%;
+
+}
+
+.titleprovince {
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    margin-right: 39px;
+    margin-left: 110px;
+
+}
+
+.zipinput {
+    font-family: 'Poppins', sans-serif;
+    width: 80%;
+}
+
+.titlezip {
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    margin-right: 17px;
+    margin-left: 80px;
+}
+
+.countryinput {
+    font-family: 'Poppins', sans-serif;
+    width: 80%;
+
+
+}
+
+.titlecountry {
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    margin-right: 39px;
+    margin-left: 105px;
+
+}
+
+.rowinput1 {
+    padding-bottom: 100px;
+}
+
+.timeselect {
+    width: 62%;
+    margin-left: 25px;
+    margin-right: 150px;
+    color: grey;
+}
+
+.dateselect {
+
+    width: 51%;
+    margin-left: 128px;
+    color: grey;
+
+}
+
+
+.titleroadout {
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 90px;
+
+}
+
+.secondroadouttitle {
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    font-size: 14px;
+    text-indent: 130px;
+    letter-spacing: 1.5px;
+    margin-top: 10px;
+}
+
+.containtype {
+    width: 70%;
+    margin-right: 5px;
+    font-family: 'Poppins', sans-serif;
+
+
+}
+
+.titlecontainertype {
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    padding-right: 220px;
+}
+
+.line2 {
+    text-align: center;
+    margin-left: 50px;
+    width: 90%;
+    color: grey;
+    padding-bottom: 2px;
+}
+
+.fa-circle-exclamation {
+    margin-left: 10px;
+    text-align: center;
+    color: #eb2121bb;
+    padding: 1%;
+    font-size: 15px;
+}
+
+.fa-circle-exclamation:hover {
+    color: #eb212183;
+}
+
+.check {
+    margin-left: 120px;
+    width: 10%;
+}
+
+.titlecheck {
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    font-size: 13px;
+
+}
+
+.headtitlecheck {
+    font-family: 'Poppins', sans-serif;
+}
+
+.checklogo {
+    width: 30px;
+}

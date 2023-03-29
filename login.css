@@ -1,0 +1,40 @@
+.headLogin {
+    text-align: center;
+    font-size: 70px;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 150px;
+
+}
+
+.formusername {
+    width: 80%;
+}
+
+.usertitle {
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    text-align: center;
+}
+
+.passwordtitle {
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    text-align: center;
+
+}
+
+.formpassword {
+    width: 80%;
+
+}
+
+.delilogo {
+    margin-left: 50px;
+    text-align: center;
+    width: 18%;
+    transition: width 1s, ;
+    transition-delay: 0.2s;
+}
+
+.delilogo:hover {
+    width: 250px;
+    height: 250px;
+}

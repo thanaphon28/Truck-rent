@@ -1,0 +1,139 @@
+.firstpaytitle {
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    font-size: 30px;
+    letter-spacing: 2px;
+    margin-top: 50px;
+}
+
+.secondpaytitle {
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    margin-top: 20px;
+    font-size: 15px;
+    letter-spacing: 2px;
+    text-indent: 40px;
+    margin-bottom: 40px;
+
+}
+
+.totaltitle {
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    margin-top: 40px;
+    padding-bottom: 20px;
+    letter-spacing: 1.5px;
+    font-weight: 400;
+    font-size: 18px;
+
+}
+
+.totalcol {
+    border-width: 0.2px;
+    border-radius: 10px;
+    border-color: rgba(247, 243, 243, 0.041);
+    border-style: solid;
+
+}
+.totalcol:hover {
+    background-color: #dc614b1c;
+}
+
+.title2{
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    letter-spacing: 1.5px;
+    font-size: 14px;
+    margin-top: 20px;
+
+}
+
+.banktitle{
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    letter-spacing: 1.5px;
+    font-size: 14px;
+    margin-top: 20px;
+    margin-right: 40%;
+
+}
+
+.namecompanytitle{
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    letter-spacing: 1.5px;
+    font-size: 14px;
+    margin-top: 20px;
+    margin-right: 15%;
+
+}
+.namecompanytitle2 {
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    letter-spacing: 1.5px;
+    font-size: 14px;
+    line-height: 50%;
+    margin-right: 26%;
+
+}
+.numbank {
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    letter-spacing: 1.5px;
+    font-size: 14px;
+    margin-right: 29%;
+
+}
+
+
+
+.bankcol {
+    border-width: 0.2px;
+    border-radius: 10px;
+    border-color: rgba(247, 243, 243, 0.041);
+    border-style: solid;
+    padding-bottom: 10px;
+
+}
+
+.bankcol:hover {
+    background-color: #dc614b1c;
+
+}
+
+.title3 {
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    letter-spacing: 1.5px;
+    font-size: 12px;
+    margin-top: 20px;
+    text-align: start;
+
+}
+
+.uploadbutton {
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    letter-spacing: 1.5px;
+    font-size: 14px;
+    background-color: #F75B5B;
+    border-color: #F75B5B;
+    margin-top: 20px;
+    width: 100%;
+
+}
+
+.uploadbutton:hover {
+    background-color: #F75B5B;
+    border-color: #F75B5B;
+
+}
+
+.uploadbutton2 {
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    letter-spacing: 1.5px;
+    font-size: 14px;
+    margin-top: 20px;
+    background-color: gray;
+    border-color: gray;
+    width: 100%;
+    margin-bottom: 30px;
+    
+
+}
+
+.uploadbutton2:hover {
+    background-color: gray;
+    border-color: gray;
+
+}
